@@ -11,8 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is my first Markdown file
-This is not een new paragraph
+This is my first Markdown file.
+**This is not a new paragraph.**
 
 But this is! It needs an extra line in between. 
 
